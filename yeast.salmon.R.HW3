@@ -10,8 +10,7 @@ files <- c(
 "ERR458501.fastq.gz.quant.counts",
 "ERR458502.fastq.gz.quant.counts",
 "ERR458510.fastq.gz.quant.counts",
-"ERR458511.fastq.gz.quant.counts",
-#add the new 4 files here
+"ERR458511.fastq.gz.quant.counts"
 )
 
 labels=c("A", "B", "C", "W", "X", "D", "E", "F", "Y", "Z")
