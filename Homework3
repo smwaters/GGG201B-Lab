@@ -99,3 +99,5 @@ write.csv(etp$table, "yeast-edgeR.csv")
 
 # Error in is.data.frame(x) : object 'etp' not found
 # I keep getting this error and cannot get a CSV output
+
+# results go here if I wasn't getting errors, sad face
